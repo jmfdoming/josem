@@ -1,4 +1,5 @@
 streamlit
 yfinance
-pandas  # Si tu app usa pandas
-numpy   # Si tu app usa numpy
+matplotlib
+pandas  # Si tu aplicación usa pandas
+numpy   # Si tu aplicación usa numpy
