@@ -1,0 +1,4 @@
+streamlit
+yfinance
+pandas  # Si tu app usa pandas
+numpy   # Si tu app usa numpy
